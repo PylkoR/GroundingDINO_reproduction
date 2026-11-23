@@ -1,0 +1,13 @@
+n_images,metric,paper,ours,diff (ours - paper)
+500,AP,48.4,49.82,1.42
+500,AP50,,64.54,
+500,AP75,,53.48,
+500,AP_small,,36.87,
+500,AP_medium,,55.52,
+500,AP_large,,70.48,
+500,AR_1,,39.5,
+500,AR_10,,67.12,
+500,AR_100,,73.88,
+500,AR_small,,59.1,
+500,AR_medium,,78.36,
+500,AR_large,,89.87,

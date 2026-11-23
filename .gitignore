@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---- project ----
+# Datasets (downloaded automatically by the notebooks)
+/data/*
+!/data/README.md
+# Raw model outputs are large and reproducible; metrics/figures are tracked
+/results/**/predictions*.json

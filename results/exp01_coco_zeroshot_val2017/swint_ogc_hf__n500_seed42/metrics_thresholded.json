@@ -1,0 +1,10 @@
+{
+  "box_threshold": 0.35,
+  "iou_match": 0.5,
+  "TP": 2059,
+  "FP (nadmiarowe)": 1010,
+  "FN (brakujące)": 1147,
+  "precision": 0.6709025741283806,
+  "recall": 0.6422333125389894,
+  "mean_IoU_of_TP": 0.8712404514377547
+}
